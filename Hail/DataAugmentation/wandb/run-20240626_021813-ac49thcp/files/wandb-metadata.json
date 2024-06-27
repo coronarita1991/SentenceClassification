@@ -1,0 +1,67 @@
+{
+    "os": "Linux-5.15.154+-x86_64-with-glibc2.31",
+    "python": "3.9.7",
+    "heartbeatAt": "2024-06-26T02:18:14.329845",
+    "startedAt": "2024-06-26T02:18:13.945236",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "aiffel/AIFFEL-DLTON/SentenceClassification/Hail/DataAugmentation/wan.ipynb",
+    "codePathLocal": null,
+    "root": "/aiffel/aiffel/AIFFEL-DLTON/SentenceClassification",
+    "git": {
+        "remote": "https://github.com/rohhail/SentenceClassification.git",
+        "commit": "3b3f1d7c8c090dd3b9d8c34bf327e5c7c856d6b6"
+    },
+    "email": "rohhail2000@gmail.com",
+    "host": "wkjdhgmuru1fxgq0q31jugc0n-846486f8f9-64sxt",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2199.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2199.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 121.81595230102539,
+            "used": 39.699134826660156
+        }
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        }
+    ],
+    "memory": {
+        "total": 17.57632827758789
+    }
+}
